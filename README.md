@@ -93,7 +93,7 @@ estadísticas personales y hábitos grupales.
 
 <p>
 Un sistema estilo <strong>“segundo cerebro”</strong> para organizar ideas, tareas, proyectos y conocimiento.
-Tendrá IA integrada, notas inteligentes, espacios de trabajo.  
+Tendrá IA integrada, notas inteligentes, espacios de trabajo y diseño minimalista.  
 <strong>Actualmente en desarrollo.</strong>
 </p>
 </div>
