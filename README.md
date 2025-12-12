@@ -8,54 +8,18 @@
 ## Tecnologías
 
 <p align="left">
-  <!-- Lenguajes -->
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=ts" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=java" />
-
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=express" />
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=postgres" />
-  <img src="https://skillicons.dev/icons?i=sqlite" />
-
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=flutter" />
-
-  <!-- Diseño -->
-  <img src="https://skillicons.dev/icons?i=figma" />
-
-  <!-- DevOps -->
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=postman" />
-  <img src="https://skillicons.dev/icons?i=vercel" />
-
-  <!-- AI & Productividad -->
-  <img src="https://skillicons.dev/icons?i=notion" />
-  <img src="https://skillicons.dev/icons?i=ai" />
-  
-  <!-- Framework -->
-  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,nodejs,express,mysql,postgres,sqlite,react,html,css,tailwind,flutter,figma,docker,git,github,linux,postman,vercel,notion,ai,flask" />
 </p>
 
 ---
 
-## Proyectos 
+## Proyectos
 <table>
 <tr>
 
 <!-- PROYECTO 1 -->
 <td width="50%">
-<h3 align="center">🔥 Hábitos — Gratis & sin publicidad</h3>
+<h3 align="center">🔥 Hábitos — Gestión de hábitos con IA</h3>
 <div align="center">
 <a href="https://habitos.zm-app.com/" target="_blank">
 <img src="https://i.imgur.com/fjDjdNJ.jpeg" width="400" alt="Hábitos App">
@@ -67,14 +31,14 @@
 </a>
 
 <a href="https://github.com/zamo23/habitos.git" target="_blank">
-<img src="https://img.shields.io/badge/PROYECTO-VIVO-1E90FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/V1-LANZADO-success?style=for-the-badge">
 </a>
 </p>
 
 <p>
-Plataforma para crear y gestionar <strong>hábitos diarios</strong> con rachas, análisis inteligente, IA integrada,
-estadísticas personales y hábitos grupales.  
-<strong>Totalmente gratis, sin anuncios, sin cuentas premium.</strong>
+Plataforma para crear y mantener <strong>hábitos diarios</strong> con rachas, análisis inteligente e IA integrada.
+Incluye estadísticas personales y hábitos grupales.<br>
+<strong>Gratis, sin anuncios y sin cuentas premium.</strong>
 </p>
 </div>
 </td>
@@ -83,18 +47,24 @@ estadísticas personales y hábitos grupales.
 <td width="50%">
 <h3 align="center">🧠 Thuenty Brain — Segundo Cerebro</h3>
 <div align="center">
-<a href="#" target="_blank">
-<img src="https://i.imgur.com/iJvZfSO.jpeg" width="400" alt="Segundo Cerebro">
+<a href="https://noti.zm-app.com" target="_blank">
+<img src="https://i.imgur.com/iJvZfSO.jpeg" width="400" alt="Thuenty Brain">
 </a>
 
 <p>
-<img src="https://img.shields.io/badge/ESTADO-EN%20DESARROLLO-yellow?style=for-the-badge">
+<a href="https://noti.zm-app.com" target="_blank">
+<img src="https://img.shields.io/badge/WEB-000000?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://github.com/zamo23/segundo-cerebro.git" target="_blank">
+<img src="https://img.shields.io/badge/V1-LANZADO-success?style=for-the-badge">
+</a>
 </p>
 
 <p>
-Un sistema estilo <strong>“segundo cerebro”</strong> para organizar ideas, tareas, proyectos y conocimiento.
-Tendrá IA integrada, notas inteligentes, espacios de trabajo y diseño minimalista.  
-<strong>Actualmente en desarrollo.</strong>
+<strong>Tu segundo cerebro impulsado por IA.</strong><br>
+Guarda ideas por voz o texto, deja que la IA las entienda, las clasifique y las mantenga siempre accesibles.<br>
+<strong>Menos olvidar, más claridad mental.</strong>
 </p>
 </div>
 </td>
@@ -102,4 +72,3 @@ Tendrá IA integrada, notas inteligentes, espacios de trabajo y diseño minimali
 </tr>
 </table>
 <br>
-
