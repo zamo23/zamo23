@@ -64,7 +64,7 @@ Incluye estadísticas personales y hábitos grupales.<br>
 </a>
 
 <a href="https://github.com/zamo23/segundo-cerebro.git" target="_blank">
-<img src="https://img.shields.io/badge/V1-LANZADO-success?style=for-the-badge">
+<img src="https://img.shields.io/badge/MVP-LANZADO-success?style=for-the-badge">
 </a>
 </p>
 
