@@ -10,7 +10,7 @@
   </a>
 </p>
 
----
+---a
 
 ## 🛠️ Tecnologías
 
@@ -75,6 +75,61 @@ Guarda ideas por voz o texto, deja que la IA las entienda, las clasifique y las 
 </p>
 </div>
 </td>
+
+<tr>
+
+<!-- PROYECTO 3 -->
+<!-- PROYECTO 3 -->
+<td width="50%">
+<h3 align="center">🎨 ProntXD — Generador de prompts desde imágenes</h3>
+<div align="center">
+<a href="https://prontxd.zm-app.com" target="_blank">
+<img src="https://i.imgur.com/SomN7RZ.jpeg" width="400" alt="ProntXD">
+</a>
+
+<p>
+<a href="https://prontxd.zm-app.com" target="_blank">
+<img src="https://img.shields.io/badge/WEB-5e35b1?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
+
+<a href="https://github.com/duggandev/prontxd.git" target="_blank">
+<img src="https://img.shields.io/badge/V1-LANZADO-success?style=for-the-badge">
+</a>
+</p>
+
+<p>
+<strong>Convierte imágenes en prompts listos para IA.</strong><br>
+Sube una imagen y ProntXD genera automáticamente un <strong>prompt optimizado</strong> para recrearla usando <strong>Gemini</strong>.<br>
+Actualmente en <strong>versión v1</strong>, enfocado en rapidez y simplicidad.
+</p>
+</div>
+</td>
+
+
+<!-- PROYECTO 4 -->
+<td width="50%">
+<h3 align="center">➕ Disponible pronto</h3>
+<div align="center">
+
+<p>
+<img src="https://img.shields.io/badge/STATUS-PR%C3%93XIMAMENTE-lightgrey?style=for-the-badge">
+</p>
+
+<p>
+<strong>Nuevo proyecto en desarrollo.</strong><br>
+Pronto agregaré una nueva herramienta enfocada en <strong>IA, productividad y automatización</strong>.<br>
+Mantente atento 🚀
+</p>
+
+</div>
+</td>
+
+
+
+</tr>
+
+
+
 
 </tr>
 </table>
